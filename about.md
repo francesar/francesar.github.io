@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi! This website will be constantly under construction 🚧👷‍♂️🚧 so please bear with me!
